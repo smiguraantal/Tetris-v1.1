@@ -1,6 +1,6 @@
 # Tetris v1.1
 
-The application is a classic Tetris game that I developed in 2003 using the Java Swing framework and JDK 1.5. To ensure compatibility with modern Java Runtime Environments, I made a few minor modifications.
+The application is a classic Tetris game that I developed in 2003 using the Java Swing framework. To ensure compatibility with modern Java Runtime Environments, I made a few minor modifications.
 
 ## The purpose of the game
 
