@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/images" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Tetris.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Tetris.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/element/Brick.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/element/Cross.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/element/L_1.java" charset="windows-1250" />
@@ -28,7 +30,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/NewRecordDialog.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/Separator.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/SpecLabel.java" charset="windows-1250" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/Tetris.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/TetrisFrame.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/gui/WindowLocation.java" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/log/Data.java" charset="windows-1250" />

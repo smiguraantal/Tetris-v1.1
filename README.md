@@ -2,6 +2,10 @@
 
 The application is a classic Tetris game that I developed in 2003 using the Java Swing framework. To ensure compatibility with modern Java Runtime Environments, I made a few minor modifications.
 
+## Setup
+
+To start the application, run the `Tetris.java` file located in the `org.example` package.
+
 ## The purpose of the game
 
 Move the shapes into the correct position. If you fill an entire row with shapes, it will disappear. Try to fill multiple rows at once to earn more points:

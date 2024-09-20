@@ -8,8 +8,10 @@
  * @version 1.1
  */
 
-package org.example.gui;
+package org.example;
 
+
+import org.example.gui.TetrisFrame;
 
 /**
  * Az alkalmazást indító osztály.
